@@ -1,2 +1,2 @@
 1.6
-[add new train]
+<add new train>
