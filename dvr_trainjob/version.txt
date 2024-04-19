@@ -1,2 +1,4 @@
 <1.8>
-- add new train>
+- add new train
+- add new config
+- add new coords
