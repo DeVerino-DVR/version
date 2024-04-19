@@ -1,3 +1,5 @@
 v1.2
+
+Patch Notes:
+- Ajout de nouvelles fonctionnalités de train.
 - Correction de bugs mineurs.
-- Ajout de fonctionnalités de sécurité supplémentaires.
