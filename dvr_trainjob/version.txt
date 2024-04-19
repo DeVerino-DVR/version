@@ -1,5 +1,1 @@
 1.2
-
-resultData:
-- Ajout de nouvelles fonctionnalités de train.
-- Correction de bugs mineurs.
