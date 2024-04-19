@@ -1,4 +1,4 @@
 <1.1>
-- Train ticket
+- Add Train ticket
 <1.0>
-- Add train
+- Initial release
