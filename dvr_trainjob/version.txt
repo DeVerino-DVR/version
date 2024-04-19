@@ -1,5 +1,5 @@
-v1.2
+1.2
 
-Patch Notes:
+resultData:
 - Ajout de nouvelles fonctionnalités de train.
 - Correction de bugs mineurs.
