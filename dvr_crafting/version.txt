@@ -1,2 +1,6 @@
-<1.0>
-- fix number type
+<1.1>
+- fix crafting
+- added exp vorp core 
+- added get gang 
+- added minigame ox_lib only 
+- optimisation
