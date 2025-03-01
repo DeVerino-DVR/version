@@ -1,2 +1,2 @@
-<0.2>
-- fix des occlusion
+<1.0.1>
+- remove function giveitem
