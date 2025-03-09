@@ -5,7 +5,7 @@
 - Added debug information for job checks
 - Changed French job notification to English for consistency
 
--- Changed
+- Changed
 - Improved framework initialization check
 - Added Debug() instead of print() for better debugging
 - Optimized menu opening conditions
