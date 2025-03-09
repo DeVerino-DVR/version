@@ -1,11 +1,11 @@
 <1.3>
-## Fixed
-- Fixed job check not working properly when opening crafting menu
+- Fixed
+- job check not working properly when opening crafting menu
 - Added proper job verification before menu opens
 - Added debug information for job checks
 - Changed French job notification to English for consistency
 
-## Changed
+-- Changed
 - Improved framework initialization check
 - Added Debug() instead of print() for better debugging
 - Optimized menu opening conditions
