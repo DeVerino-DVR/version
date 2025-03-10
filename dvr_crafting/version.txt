@@ -1,11 +1,10 @@
-<1.3>
+<1.4>
 - Fixed
-- job check not working properly when opening crafting menu
-- Added proper job verification before menu opens
-- Added debug information for job checks
-- Changed French job notification to English for consistency
+- Multiple items missing notification
+- Enhanced framework initialization check
+- Optimized menu opening conditions
 
 - Changed
-- Improved framework initialization check
+- Added missing items list in notification
+- Improved callback system for item checks
 - Added Debug() instead of print() for better debugging
-- Optimized menu opening conditions
